@@ -16,8 +16,8 @@ I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.
 
 - 📫 Reach out to me at: <a href="siddhartha.singh2020@vitbhopal.ac.in">siddhartha.singh2020@vitbhopal.ac.in</a>
 
-<a href="https://github.com/siddhartha-up80?tab=repositories">__{Check out my GitHub repository}__ </a>
-
+- <a href="https://github.com/siddhartha-up80?tab=repositories">__{Check out my GitHub Repository}__ </a>
+- <a href="https://www.linkedin.com/in/siddhartha-singh-68645a244/">__{Check out my Linkedin Profile}__ </a>
 <div align="center">
 <h2> I make Inators ~ {inspired from Dr. Heinz Doofenshmirtz} <h2>
 
