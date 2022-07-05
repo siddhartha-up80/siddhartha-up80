@@ -5,7 +5,7 @@
 
 I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.Tech in Electronics and Communication. From learning core concepts of ECE to exploring programming languages like Javascript, java, and Shell, I like to learn and explore something new, productive, and creative.
 
-* **I am interested in Web Development, Hybrid App development, and **
+* **I am interested in Web Development and will explore hybrid app development**
 - 🌱 I’m currently learning ...
   - Java
   - React js
