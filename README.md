@@ -15,7 +15,8 @@ I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.
 - Outside my syllabus, 🎥 I love to do things like Video Editing, 💻 exploring linux distros , 🎵 listen to music, and 👻 sometime creating memes.
 
 - 📫 Reach out to me at: <a href="siddhartha.singh2020@vitbhopal.ac.in">siddhartha.singh2020@vitbhopal.ac.in</a>
-
+<br> </br>
+<h3> - 📃 Visit: <a href="https://relaxed-tiramisu-d0c5a2.netlify.app/"> Inators Portfolio </a> </h3>
 
 <br>
 <div> <a href="https://www.linkedin.com/in/siddhartha-singh-68645a244/"> {Check out my Linkedin Profile} </a> </div>
