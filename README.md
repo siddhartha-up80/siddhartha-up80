@@ -5,7 +5,7 @@
 
 I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.Tech in Electronics and Communication. From learning core concepts of ECE to exploring programming languages like Javascript, java, and Shell, I like to learn and explore something new, productive, and creative.
 
-* **I am interested in React**
+* **I am highly interested in React**
 - ✖️ I’m currently learning ...
   - React js
   - Java
@@ -16,7 +16,7 @@ I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.
 
 - 📫 Reach out to me at: <a href="siddhartha.singh2020@vitbhopal.ac.in">siddhartha.singh2020@vitbhopal.ac.in</a>
 <br> </br>
-<h3> - 📃 Visit: <a href="https://relaxed-tiramisu-d0c5a2.netlify.app/"> Inators Portfolio </a> </h3>
+<h3> - 📃 Visit: <a href="https://inators.netlify.app/"> Inators Portfolio </a> </h3>
 
 <br>
 <div> <a href="https://www.linkedin.com/in/siddhartha-singh-68645a244/"> {Check out my Linkedin Profile} </a> </div>
