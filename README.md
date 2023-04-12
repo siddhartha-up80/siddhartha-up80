@@ -27,7 +27,7 @@ I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.
 
 </div>
 
-![heinz-doofenshmirtz-phineas-and-ferb](https://user-images.githubusercontent.com/84330754/177348417-31eb9d21-d131-4988-ab30-200ebca0aef8.gif)
+
 
 
 
