@@ -22,7 +22,7 @@ I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siddhartha-up80&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhartha-up80&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-up80&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha-up80&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddhartha-up80&theme=radical&no-frame=false&no-bg=true&margin-w=4)
