@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Siddhartha Singh<br>
 
-I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.Tech in Electronics and Communication. From learning core concepts of ECE to exploring programming languages like Javascript, java, and Shell, I like to learn and explore something new, productive, and creative.
+I am currently a student at Vellore Institute of Technology, Bhopal, pursuing B.Tech in Electronics and Communication. From learning core concepts of ECE to exploring programming languages like Javascript, python, I like to learn and explore something new, productive, and creative.
 
 👀 I’m interested in Fullstack Development<br>🌱 I’m currently learning Next.js 13<br>💞️ I’m looking to collaborate on Web Development<br>Outside my syllabus, 🎥 I love to do things like Video Editing, 💻 exploring linux distros , 🎵 listen to music, and 👻 sometime creating memes.<br>📫 Reach me at siddhartha.singh3093@gmail.com  | Visit: <a href="https://inators.netlify.app/"> Inators Portfolio </a> <br>
 
